@@ -19,7 +19,7 @@ This repository contains exercises, examples, and notes from the book **"The C P
 1. Clone the repository:
 
 ```bash
-$ git clone https://www.github.com/ddiogoo/c.git
+$ git clone https://github.com/ddiogoo/c.git
 ```
 
 2. Navigate to the project directory:
