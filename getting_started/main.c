@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "file1.c"
 
 int main()
 {
-    printf("hello, world\n");
+    temperature();
     return 0;
 }
