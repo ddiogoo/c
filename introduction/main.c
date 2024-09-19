@@ -3,6 +3,7 @@
 #include "exercise1/exercise_2.c"
 #include "exercise1/exercise_3.c"
 #include "exercise1/exercise_4.c"
+#include "exercise1/exercise_5.c"
 
 int main()
 {
@@ -15,5 +16,7 @@ int main()
     temperatureConversion();
     printf("\tExercise *.4:\n");
     temperature();
+    printf("\tExercise *.5:\n");
+    tempReverseConversion();
     return 0;
 }
