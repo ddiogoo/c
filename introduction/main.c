@@ -4,6 +4,8 @@
 #include "exercise1/exercise_3.c"
 #include "exercise1/exercise_4.c"
 #include "exercise1/exercise_5.c"
+#include "exercise1/exercise_6.c"
+#include "exercise1/exercise_7.c"
 
 int main()
 {
@@ -18,5 +20,9 @@ int main()
     temperature();
     printf("\tExercise *.5:\n");
     tempReverseConversion();
+    printf("\tExercise *.6:\n");
+    inputAndOutput();
+    printf("\tExercise *.7:\n");
+    outputEof();
     return 0;
 }
