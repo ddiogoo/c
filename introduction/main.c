@@ -6,6 +6,8 @@
 #include "exercise1/exercise_5.c"
 #include "exercise1/exercise_6.c"
 #include "exercise1/exercise_7.c"
+#include "exercise1/exercise_8.c"
+#include "exercise1/exercise_9.c"
 
 int main()
 {
@@ -24,5 +26,9 @@ int main()
     inputAndOutput();
     printf("\tExercise *.7:\n");
     outputEof();
+    printf("\tExercise *.8:\n");
+    countBlanksTabsAndNewlines();
+    printf("\tExercise *.9:\n");
+    copyInputToOutputAndReplaceMultipleBlanksWithSingleBlank();
     return 0;
 }
